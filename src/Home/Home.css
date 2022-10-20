@@ -1,0 +1,9 @@
+body{
+    background-color:burlywood;
+}
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyectoma-5e2f6.appspot.com/o/blackpink.jpg?alt=media&token=a218017a-0c2c-464b-8b24-e996c9164154");
+    background-position: top center;
+    background-size: cover;
+    padding: 5% 20% 35% 20%;
+}
